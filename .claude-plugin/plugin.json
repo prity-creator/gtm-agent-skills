@@ -1,0 +1,13 @@
+{
+  "name": "gtm-agent-skills",
+  "version": "1.0.0",
+  "description": "10 Claude Code skills for signal-based LinkedIn outbound: ICP, buying signals, account research, openers, follow-ups, replies, campaigns, inbox analysis, posts from calls and weekly pipeline reports.",
+  "author": {
+    "name": "Prity Kar",
+    "url": "https://github.com/prity-creator"
+  },
+  "homepage": "https://github.com/prity-creator/gtm-agent-skills",
+  "repository": "https://github.com/prity-creator/gtm-agent-skills",
+  "license": "MIT",
+  "keywords": ["gtm", "outbound", "linkedin", "sales", "signals", "lead-generation", "skills"]
+}

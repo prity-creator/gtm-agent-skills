@@ -1,0 +1,135 @@
+thread_id,sender,timestamp,text
+T001,us,2026-09-18T17:42:00,"Hi Alex, congrats on the Series A last month. We help teams like yours hire faster."
+T001,us,2026-09-25T17:42:00,I'll stop here. Should I just send the one-page overview so you have it for later?
+T001,us,2026-10-02T17:42:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T001,us,2026-10-05T17:42:00,Running a free 30-minute live session on hiring benchmarks next Wednesday. Want the invite?
+T002,us,2026-10-13T11:28:00,"Hey Jordan, congrats on the Series A last month. Here's a quick overview: www.example-agency.com/overview"
+T002,them,2026-10-26T23:28:00,"Not right now, maybe next quarter"
+T002,us,2026-10-26T23:40:00,"Totally fair, Jordan. Mind if I check back in February?"
+T003,us,2026-09-07T15:28:00,"Hey Sam, saw you moved into the Founder role in September. Is that you or someone else on the team?"
+T003,us,2026-09-10T15:28:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T003,them,2026-09-11T21:28:00,"We handle this in-house, thanks"
+T003,us,2026-09-12T07:28:00,"Totally fair, Sam. Mind if I check back in February?"
+T004,us,2026-10-01T15:34:00,"Hey Taylor, saw you moved into the Director of Recruiting role in September. Is the plan to hire all of them in-house?"
+T004,us,2026-10-08T15:34:00,"Is that okay, Taylor?"
+T004,us,2026-10-12T15:34:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T004,us,2026-10-15T15:34:00,"Just making sure this doesn't get buried, Taylor."
+T005,us,2026-09-16T14:23:00,"Hey Morgan, congrats on the Series A last month. Curious, what's working best for you right now?"
+T005,us,2026-09-19T14:23:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T005,us,2026-09-26T14:23:00,"Hey Morgan, is hiring still the main focus for Q1?"
+T005,us,2026-09-29T14:23:00,We just helped a US software firm fill 4 backend roles in 5 weeks. Worth comparing notes?
+T006,them,2026-10-14T15:02:00,"Saw your comment, can you send the list you mentioned?"
+T006,us,2026-10-14T16:56:00,"Thanks Casey! Yes, mostly 100 to 500 person teams. What's the main thing you're trying to fix?"
+T006,them,2026-10-15T18:56:00,Hiring speed mostly. Can we talk?
+T006,us,2026-10-15T20:28:00,Great. How's Tuesday 11 am or Wednesday 2 pm ET? Best email for the invite?
+T006,them,2026-10-15T23:28:00,Tuesday works. me@example.org
+T007,us,2026-09-14T10:44:00,"Hi Riley, congrats on the Series A last month. We help teams like yours hire faster."
+T007,us,2026-09-17T10:44:00,"Hey Riley, is hiring still the main focus for Q1?"
+T007,us,2026-09-21T10:44:00,"Is that okay, Riley?"
+T007,us,2026-09-25T10:44:00,We just helped a US software firm fill 4 backend roles in 5 weeks. Worth comparing notes?
+T008,us,2026-10-01T16:15:00,"Hey Jamie, noticed your team has 7 engineering roles open right now. Is that you or someone else on the team?"
+T008,them,2026-10-05T14:15:00,"Sounds good, what did you have in mind?"
+T008,us,2026-10-05T14:55:00,"Great, Jamie. How's Tuesday 11 am or Wednesday 2 pm ET? What's the best email for the invite?"
+T008,them,2026-10-05T18:55:00,First one works
+T008,us,2026-10-05T19:15:00,"Perfect, invite sent. Talk then!"
+T009,us,2026-09-16T10:23:00,"Hey Avery, saw you're speaking at the finance leaders meetup next week. Would you be up for a chat on Thursday?"
+T009,us,2026-09-23T10:23:00,"Is that okay, Avery?"
+T009,us,2026-09-30T10:23:00,Running a free 30-minute live session on hiring benchmarks next Wednesday. Want the invite?
+T009,us,2026-10-04T10:23:00,"Hey Avery, is hiring still the main focus for Q1?"
+T010,us,2026-10-12T14:16:00,"Hi Quinn, liked your post about hiring being harder than selling this year. We help teams like yours hire faster."
+T010,us,2026-10-19T14:16:00,"Hey Quinn, is hiring still the main focus for Q1?"
+T010,us,2026-10-26T14:16:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T010,us,2026-10-30T14:16:00,"Just making sure this doesn't get buried, Quinn."
+T011,us,2026-09-21T17:16:00,"Hey Drew, saw you moved into the Founder role in September. Is the plan to hire all of them in-house?"
+T011,them,2026-09-21T22:16:00,"Sure, happy to chat"
+T011,us,2026-09-21T23:46:00,Great! Grab any slot here: calendly.com/example-team/intro
+T012,us,2026-09-28T10:57:00,"Hey Reese, liked your post about hiring being harder than selling this year. How are you handling that so far?"
+T012,them,2026-10-01T08:57:00,"Yes, interested"
+T012,us,2026-10-01T09:09:00,Great! Grab any slot here: calendly.com/example-team/intro
+T013,us,2026-09-28T17:12:00,"Hey Parker, liked your post about hiring being harder than selling this year. Is the plan to hire all of them in-house?"
+T013,them,2026-09-29T13:12:00,What's this about?
+T013,us,2026-09-29T14:07:00,"We build small dedicated teams that join your sprints, usually live in 4 to 6 weeks. Is speed or cost the bigger issue for you?"
+T014,us,2026-10-08T12:04:00,"Hey Rowan, liked your post about hiring being harder than selling this year. Grab a time here: calendly.com/example-team/intro"
+T014,us,2026-10-15T12:04:00,Pulled a list of 31 companies in your space hiring for the same roles this month. Want it?
+T014,them,2026-10-15T14:04:00,Who else are you working with?
+T014,us,2026-10-16T00:04:00,"We build small dedicated teams that join your sprints, usually live in 4 to 6 weeks. Is speed or cost the bigger issue for you?"
+T014,them,2026-10-16T06:04:00,"Speed. Sure, let's talk"
+T014,us,2026-10-16T06:39:00,How's Tuesday 11 am or Wednesday 2 pm ET?
+T015,us,2026-10-02T16:31:00,"Hey Skyler, noticed your team has 7 engineering roles open right now. Is the plan to hire all of them in-house?"
+T015,them,2026-10-02T17:01:00,"We handle this in-house, thanks"
+T015,us,2026-10-02T18:31:00,"Totally fair, Skyler. Mind if I check back in February?"
+T016,us,2026-10-15T15:18:00,"Hey Hayden, noticed your team has 7 engineering roles open right now. Curious, what's working best for you right now?"
+T016,us,2026-10-19T15:18:00,Running a free 30-minute live session on hiring benchmarks next Wednesday. Want the invite?
+T016,them,2026-10-22T13:18:00,"Yes, interested"
+T016,us,2026-10-23T14:18:00,"Great, Hayden. How's Tuesday 11 am or Wednesday 2 pm ET? What's the best email for the invite?"
+T016,them,2026-10-23T18:18:00,First one works
+T016,us,2026-10-23T18:38:00,"Perfect, invite sent. Talk then!"
+T017,us,2026-09-28T17:44:00,"Hey Emerson, liked your post about hiring being harder than selling this year. Curious, what's working best for you right now?"
+T017,us,2026-10-02T17:44:00,Pulled a list of 31 companies in your space hiring for the same roles this month. Want it?
+T017,us,2026-10-09T17:44:00,"Is that okay, Emerson?"
+T017,us,2026-10-12T17:44:00,"Just making sure this doesn't get buried, Emerson."
+T017,them,2026-10-13T03:44:00,How does it work?
+T017,us,2026-10-13T05:14:00,"We build small dedicated teams that join your sprints, usually live in 4 to 6 weeks. Is speed or cost the bigger issue for you?"
+T017,them,2026-10-13T11:14:00,"Speed. Sure, let's talk"
+T017,us,2026-10-13T11:49:00,Does Wednesday 3 pm ET work? Or earlier in the day?
+T018,them,2026-10-05T11:16:00,"Saw your comment, can you send the list you mentioned?"
+T018,us,2026-10-05T11:49:00,"Thanks Finley! Yes, mostly 100 to 500 person teams. What's the main thing you're trying to fix?"
+T018,them,2026-10-06T02:49:00,Hiring speed mostly. Can we talk?
+T018,us,2026-10-06T04:46:00,Great. How about Monday 4 pm or Tuesday 9 am GMT? Best email for the invite?
+T018,them,2026-10-06T07:46:00,Tuesday works. me@example.org
+T019,us,2026-09-28T13:24:00,"Hey Logan, saw you're speaking at the finance leaders meetup next week. We have been helping similar teams in the US cut time to hire by building a pod of 3 to 5 people who plug into the existing sprint process, with weekly demos and a single point of contact. I put together a short note on how that could look for your roadmap, including the first 30 days and what it would cost compared with local hires. Is that on your plate this quarter?"
+T019,them,2026-09-29T03:24:00,"Sure, send me some times"
+T019,us,2026-09-29T04:54:00,"Great, Logan. Does Wednesday 3 pm ET work? Or earlier in the day? What's the best email for the invite?"
+T019,them,2026-09-29T08:54:00,First one works
+T019,us,2026-09-29T09:14:00,"Perfect, invite sent. Talk then!"
+T020,us,2026-09-25T15:52:00,"Hey Kendall, noticed your team has 7 engineering roles open right now. How are you handling that so far?"
+T020,us,2026-10-02T15:52:00,Pulled a list of 31 companies in your space hiring for the same roles this month. Want it?
+T020,us,2026-10-09T15:52:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T020,us,2026-10-16T15:52:00,"Is that okay, Kendall?"
+T021,us,2026-09-21T11:54:00,"Hey Blake, congrats on the Series A last month. How are you handling that so far?"
+T021,us,2026-09-24T11:54:00,"Is that okay, Blake?"
+T021,us,2026-09-27T11:54:00,"Hey Blake, is hiring still the main focus for Q1?"
+T021,us,2026-09-30T11:54:00,"Just making sure this doesn't get buried, Blake."
+T022,us,2026-09-14T11:49:00,"Hey Cameron, congrats on the Series A last month. Curious, what's working best for you right now?"
+T022,us,2026-09-21T11:49:00,Pulled a list of 31 companies in your space hiring for the same roles this month. Want it?
+T022,us,2026-09-24T11:49:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T022,them,2026-09-25T07:49:00,"Sure, happy to chat"
+T022,us,2026-09-25T08:29:00,Great! Grab any slot here: calendly.com/example-team/intro
+T023,us,2026-10-12T13:29:00,"Hey Dakota, congrats on the Series A last month. Is that you or someone else on the team?"
+T023,us,2026-10-15T13:29:00,"Hey Dakota, is hiring still the main focus for Q1?"
+T023,us,2026-10-19T13:29:00,Running a free 30-minute live session on hiring benchmarks next Wednesday. Want the invite?
+T023,us,2026-10-23T13:29:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T024,us,2026-10-14T15:35:00,"Hey Elliot, liked your post about hiring being harder than selling this year. Here's a quick overview: www.example-agency.com/overview"
+T024,us,2026-10-17T15:35:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T024,us,2026-10-21T15:35:00,I'll stop here. Should I just send the one-page overview so you have it for later?
+T024,us,2026-10-24T15:35:00,"Hey Elliot, is hiring still the main focus for Q1?"
+T025,us,2026-09-01T12:01:00,"Hey Harper, saw you moved into the VP Engineering role in September. Curious, what's working best for you right now?"
+T025,us,2026-09-05T12:01:00,"Hey Harper, is hiring still the main focus for Q1?"
+T025,us,2026-09-12T12:01:00,"Is that okay, Harper?"
+T025,us,2026-09-15T12:01:00,Pulled a list of 31 companies in your space hiring for the same roles this month. Want it?
+T026,us,2026-09-22T15:41:00,"Hey Jesse, saw you're speaking at the finance leaders meetup next week. Is that on your plate this quarter?"
+T026,us,2026-09-25T15:41:00,Running a free 30-minute live session on hiring benchmarks next Wednesday. Want the invite?
+T026,them,2026-09-28T00:41:00,"Sounds good, what did you have in mind?"
+T026,us,2026-09-28T00:53:00,"Great, Jesse. How's Tuesday 11 am or Wednesday 2 pm ET? What's the best email for the invite?"
+T026,them,2026-09-28T04:53:00,First one works
+T026,us,2026-09-28T05:13:00,"Perfect, invite sent. Talk then!"
+T027,them,2026-09-28T14:52:00,"Saw your comment, can you send the list you mentioned?"
+T027,us,2026-09-28T17:44:00,"Thanks Kai! Yes, mostly 100 to 500 person teams. What's the main thing you're trying to fix?"
+T027,them,2026-09-29T05:44:00,Hiring speed mostly. Can we talk?
+T027,us,2026-09-29T07:15:00,Great. Does Wednesday 3 pm ET work? Or earlier in the day? Best email for the invite?
+T027,them,2026-09-29T10:15:00,Tuesday works. me@example.org
+T028,us,2026-09-22T12:56:00,"Hey Lane, saw you're speaking at the finance leaders meetup next week. Curious, what's working best for you right now?"
+T028,them,2026-09-25T10:56:00,"Sure, send me some times"
+T028,us,2026-09-26T11:56:00,"Great, Lane. How about Monday 4 pm or Tuesday 9 am GMT? What's the best email for the invite?"
+T028,them,2026-09-26T15:56:00,First one works
+T028,us,2026-09-26T16:16:00,"Perfect, invite sent. Talk then!"
+T029,us,2026-09-28T10:07:00,"Hey Micah, saw you're speaking at the finance leaders meetup next week. Open to a quick 15 minute call this week?"
+T029,us,2026-10-02T10:07:00,"Is that okay, Micah?"
+T029,us,2026-10-06T10:07:00,We just helped a US software firm fill 4 backend roles in 5 weeks. Worth comparing notes?
+T029,them,2026-10-06T20:07:00,Not interested
+T029,us,2026-10-07T21:07:00,"Totally fair, Micah. Mind if I check back in February?"
+T030,us,2026-09-14T15:56:00,"Hey Noel, noticed your team has 7 engineering roles open right now. Is that on your plate this quarter?"
+T030,us,2026-09-21T15:56:00,Guessing this isn't a priority right now? Or is it more that outside teams aren't an option?
+T030,us,2026-09-28T15:56:00,I'll stop here. Should I just send the one-page overview so you have it for later?
+T030,them,2026-09-29T05:56:00,"Sounds good, what did you have in mind?"
+T030,us,2026-09-29T06:21:00,Great! Grab any slot here: calendly.com/example-team/intro

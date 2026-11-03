@@ -1,0 +1,17 @@
+{
+  "name": "gtm-agent-skills",
+  "owner": {
+    "name": "Prity Kar",
+    "url": "https://github.com/prity-creator"
+  },
+  "metadata": {
+    "description": "Signal-based outbound skills for Claude Code by Prity Kar."
+  },
+  "plugins": [
+    {
+      "name": "gtm-agent-skills",
+      "source": "./",
+      "description": "10 skills that take you from ICP to booked call: icp-builder, signal-scout, account-research, opener-writer, follow-up-writer, reply-handler, campaign-builder, inbox-analyzer, post-from-call, pipeline-report."
+    }
+  ]
+}

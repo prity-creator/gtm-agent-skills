@@ -1,0 +1,41 @@
+lead_id,name,company,stage,owner,campaign,value,created_at,stage_changed_at,last_touch_at
+L001,Alex (fake),Sample Systems,new,Prity,uk-recruitment-new-in-seat,0,2026-10-12,2026-10-16,2026-10-19
+L002,Jordan (fake),Fake Robotics,new,SDR 1,us-saas-hiring,0,2026-10-29,2026-11-01,2026-11-01
+L003,Sam (fake),Globex Data,new,Prity,us-saas-hiring,0,2026-10-17,2026-10-19,2026-10-23
+L004,Taylor (fake),Test Analytics,new,Prity,us-saas-hiring,0,2026-10-29,2026-11-01,2026-11-01
+L005,Morgan (fake),Globex Data,new,SDR 1,us-saas-hiring,0,2026-10-14,2026-10-27,2026-10-28
+L006,Casey (fake),Mock Fintech,new,Prity,us-saas-hiring,0,2026-10-26,2026-11-01,2026-11-01
+L007,Riley (fake),Mock Fintech,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-29,2026-11-01,2026-11-01
+L008,Jamie (fake),Sample Systems,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-09,2026-10-18,2026-10-19
+L009,Avery (fake),Sample Systems,contacted,SDR 1,us-saas-hiring,0,2026-10-11,2026-10-25,2026-10-27
+L010,Quinn (fake),Sample Systems,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-11,2026-10-15,2026-10-18
+L011,Drew (fake),Sample Systems,contacted,Prity,uk-recruitment-new-in-seat,0,2026-10-10,2026-10-29,2026-11-01
+L012,Reese (fake),Globex Data,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-02,2026-10-04,2026-10-04
+L013,Parker (fake),Demo Logistics,contacted,Prity,uk-recruitment-new-in-seat,0,2026-10-08,2026-10-19,2026-10-19
+L014,Rowan (fake),Test Analytics,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-29,2026-11-01,2026-11-01
+L015,Skyler (fake),Acme Cloud,contacted,SDR 1,us-saas-hiring,0,2026-10-01,2026-10-03,2026-10-04
+L016,Hayden (fake),Mock Fintech,contacted,SDR 1,us-saas-hiring,0,2026-10-05,2026-10-22,2026-10-24
+L017,Emerson (fake),Test Analytics,contacted,Prity,uk-recruitment-new-in-seat,0,2026-10-23,2026-10-25,2026-10-26
+L018,Finley (fake),Fake Robotics,contacted,SDR 1,uk-recruitment-new-in-seat,0,2026-10-21,2026-10-29,2026-10-31
+L019,Logan (fake),Dummy Retail,replied,SDR 1,uk-recruitment-new-in-seat,0,2026-10-24,2026-10-18,2026-10-18
+L020,Kendall (fake),Example Labs,replied,Prity,us-saas-hiring,0,2026-10-07,2026-10-19,2026-10-19
+L021,Blake (fake),Globex Data,replied,Prity,us-saas-hiring,0,2026-10-19,2026-11-01,2026-11-01
+L022,Cameron (fake),Globex Data,replied,Prity,us-saas-hiring,0,2026-11-01,2026-10-19,2026-10-19
+L023,Dakota (fake),Mock Fintech,replied,SDR 1,uk-recruitment-new-in-seat,0,2026-10-19,2026-11-01,2026-11-01
+L024,Elliot (fake),Dummy Retail,replied,SDR 1,uk-recruitment-new-in-seat,0,2026-10-25,2026-10-28,2026-11-01
+L025,Harper (fake),Placeholder Health,call_booked,SDR 1,us-saas-hiring,0,2026-10-27,2026-10-31,2026-10-31
+L026,Jesse (fake),Demo Logistics,call_booked,Prity,uk-recruitment-new-in-seat,0,2026-09-29,2026-09-29,2026-09-30
+L027,Kai (fake),Mock Fintech,call_booked,Prity,uk-recruitment-new-in-seat,0,2026-10-27,2026-11-01,2026-11-01
+L028,Lane (fake),Fake Robotics,call_booked,Prity,us-saas-hiring,0,2026-10-18,2026-11-01,2026-11-01
+L029,Micah (fake),Example Labs,call_booked,SDR 1,uk-recruitment-new-in-seat,0,2026-09-29,2026-10-14,2026-10-16
+L030,Noel (fake),Dummy Retail,call_held,SDR 1,uk-recruitment-new-in-seat,0,2026-10-16,2026-10-22,2026-10-27
+L031,Robin (fake),Test Analytics,call_held,SDR 1,us-saas-hiring,0,2026-10-27,2026-11-01,2026-11-01
+L032,Sage (fake),Mock Fintech,call_held,Prity,us-saas-hiring,0,2026-10-02,2026-10-21,2026-10-25
+L033,Toby (fake),Mock Fintech,proposal,Prity,uk-recruitment-new-in-seat,12000,2026-10-08,2026-10-14,2026-10-17
+L034,Val (fake),Demo Logistics,proposal,Prity,us-saas-hiring,24000,2026-10-03,2026-10-15,2026-10-23
+L035,Wren (fake),Globex Data,proposal,SDR 1,uk-recruitment-new-in-seat,24000,2026-10-23,2026-11-01,2026-11-01
+L036,Ash (fake),Example Labs,won,Prity,us-saas-hiring,15000,2026-10-23,2026-11-01,2026-11-01
+L037,Bay (fake),Placeholder Health,won,Prity,uk-recruitment-new-in-seat,15000,2026-10-05,2026-10-11,2026-10-17
+L038,Cory (fake),Placeholder Health,lost,SDR 1,us-saas-hiring,0,2026-09-30,2026-10-07,2026-10-13
+L039,Dale (fake),Acme Cloud,lost,Prity,us-saas-hiring,0,2026-10-29,2026-11-01,2026-11-01
+L040,Eden (fake),Globex Data,nurture,Prity,us-saas-hiring,0,2026-09-29,2026-10-15,2026-10-15
